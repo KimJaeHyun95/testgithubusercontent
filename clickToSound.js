@@ -1,5 +1,5 @@
 (function () {
-  // console.log(2314235)
+  console.log(2314235)
   var sound = SoundCache.getSound("http://192.168.0.102:3000/soundfile.mp3");
   var injectorOptions;
   var injector = null;
