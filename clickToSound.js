@@ -1,5 +1,6 @@
 (function () {
-  var sound = SoundCache.getSound("C:\\Users\\kjh95\\OneDrive\\바탕 화면\\VircadiaExhibition\\mp3\\음성파일.mp3");
+  // console.log(2314235)
+  var sound = SoundCache.getSound("http://192.168.0.102:3000/soundfile.mp3");
   var injectorOptions;
   var injector = null;
   var position;
